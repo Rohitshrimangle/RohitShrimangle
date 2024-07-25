@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @rohitshrimangle02
 - 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning Snowflake
 - 👯 I’m looking to collaborate on Machine learning Projects
