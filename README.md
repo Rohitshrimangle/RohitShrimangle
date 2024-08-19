@@ -7,6 +7,5 @@
 - 📫 How to reach me: You Found Me🫡
 - ⚡ Fun fact : How does a data scientist propose?
                 By saying, "I've got the data to prove we're a perfect match 😍
-
-  ![Logo](![ROhit shrimangle (3)](https://github.com/user-attachments/assets/77768259-536e-449c-98f0-0909ec9e5076)
+(![ROhit shrimangle (3)](https://github.com/user-attachments/assets/77768259-536e-449c-98f0-0909ec9e5076)
 )
