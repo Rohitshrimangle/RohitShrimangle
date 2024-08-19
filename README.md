@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitshrimangle02 ![ROhit shrimangle (7)](https://github.com/user-attachments/assets/b7513aca-64dd-491d-9363-b7a9ef2dee62)" width="10" height="10"
+- 👋 Hi, I’m @rohitshrimangle02 ![ROhit shrimangle (7)](https://github.com/user-attachments/assets/b7513aca-64dd-491d-9363-b7a9ef2dee62)
 
 - 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning Snowflake
