@@ -1,4 +1,4 @@
- ![ROhit shrimangle (7)](https://github.com/user-attachments/assets/b7513aca-64dd-491d-9363-b7a9ef2dee62)
+ ![Pi7_Tool_ROHIT SHRIMANGLE 2 (3)](https://github.com/user-attachments/assets/5b3b09b7-b011-4409-a8fb-88585d9a05d1)
 - 👋 Hi, I’m @rohitshrimangle02
 - 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning Snowflake
