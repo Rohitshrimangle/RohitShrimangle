@@ -8,4 +8,5 @@
 - ⚡ Fun fact : How does a data scientist propose?
                 By saying, "I've got the data to prove we're a perfect match 😍
 
-  ![Logo][Uploading ROhit shrimangle (3).png…]()
+  ![Logo](![ROhit shrimangle (3)](https://github.com/user-attachments/assets/77768259-536e-449c-98f0-0909ec9e5076)
+)
